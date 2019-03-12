@@ -104,7 +104,7 @@ function listCommands(commands){
       turnLeft(rover)
       break;
       case "r":
-      (turnRight(rover);
+      turnRight(rover);
 
       break;
       case "f":
